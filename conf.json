@@ -1,0 +1,14 @@
+{
+    "scoopydoo": {
+        "version": "0.1"
+    },
+    "project": {
+        "id": "putty"
+    },
+    "dependencies": {
+        "putty": {
+            "url": "plop",
+            "tag": "0.1"
+        }
+    }
+}
