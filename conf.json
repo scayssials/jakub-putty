@@ -3,12 +3,15 @@
         "version": "0.1"
     },
     "project": {
-        "id": "putty"
+        "id": "jakub-putty"
     },
     "dependencies": {
-        "putty": {
-            "url": "plop",
-            "tag": "0.1"
-        }
+        "configurations": {},
+        "buckets": [
+            "local"
+        ],
+        "apps": [
+            "putty"
+        ]
     }
 }
